@@ -7,6 +7,7 @@ Roshan Nayak, **B S Ullas Kannantha**, Kruthi S, C. Gururaj. (2022). **Multimoda
 
 * **PDF of paper** is attached: paper.pdf
 * **Find code at:** https://github.com/RosNayak/Offensive-Meme-Classification
+* **Our article is open access:** https://doi.org/10.35940/ijeat.c3392.0211322
 
 ## Abstract
 *Nowadays memes have become a way in which people express their ideas on social media. These memes can convey various views including offensive ones. Memes can be intended for a personal attack, homophobic abuse, racial abuse, attack on minority etc. The memes are implicit and multi-modal in nature. Here we analyze the meme by categorizing them as offensive or not offensive and this becomes a binary classification problem. We propose a novel offensive meme classification using the transformer-based image encoder, BiLSTM for text with mean pooling as text encoder and a Feed-Forward Network as a classification head. The SwinT + BiLSTM has performed better when compared to the ViT + BiLSTM across all the dimensions. The performance of the models has improved significantly when the contextual embeddings from DistilBert replace the custom embeddings. We have achieved the highest recall of 0.631 by combining outputs of four models using the soft voting technique*
